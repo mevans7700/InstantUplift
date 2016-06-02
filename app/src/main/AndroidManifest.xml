@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.evansappwriter.instantuplift"
+      android:versionCode="2"
+      android:versionName="2.0">
+    <uses-sdk android:minSdkVersion="8"></uses-sdk>
+    
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:label="@string/app_name" android:name=".SplashActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainMenuActivity" android:screenOrientation="portrait" android:label="@string/app_name"></activity>
+        <activity android:name=".InstantVideoUpliftsActivity" android:screenOrientation="portrait" android:label="@string/app_name"></activity>
+        <activity android:name=".FullProcessActivity" android:screenOrientation="portrait" android:label="@string/app_name"></activity>
+        <activity android:name=".QuickInspirationActivity" android:screenOrientation="portrait" android:label="@string/app_name"></activity>
+        <activity android:name=".SparkUpVideosActivity" android:screenOrientation="portrait" android:label="@string/app_name"></activity>
+        <activity android:name=".PlayFocusPhraseActivity" android:label="@string/app_name" android:noHistory="true" android:screenOrientation="portrait"></activity>
+		<activity android:theme="@android:style/Theme.Dialog" android:name=".InstructionsActivity" android:screenOrientation="portrait"></activity>
+		<activity android:theme="@android:style/Theme.Dialog" android:name=".AboutActivity" android:screenOrientation="user"></activity>
+		<activity android:theme="@android:style/Theme.Dialog" android:name=".MoodNotesActivity" android:screenOrientation="portrait"></activity>
+		<activity android:theme="@android:style/Theme.Dialog" android:name=".SupportActivity" android:screenOrientation="portrait"></activity>
+		<activity android:theme="@android:style/Theme.Dialog" android:name=".WhyActivity" android:screenOrientation="portrait"></activity>
+    </application>
+</manifest>

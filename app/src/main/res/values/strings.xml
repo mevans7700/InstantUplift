@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mood Uplift</string>
+   
+<string name="main_menu_item_1">Instant Video Uplifts</string>
+<string name="main_menu_item_2">The Full Process</string>
+<string name="main_menu_item_3">Quick Inspiration</string>
+<string name="main_menu_item_4">Spark-Up Videos</string>
+<string name="uplift_title">Instant Video Uplifts</string> 
+<string name="uplift_menu_item_1">Expand This Moment</string>
+<string name="uplift_menu_item_2">Expand This Moment</string>
+<string name="uplift_menu_item_3">Mood Uplift</string>
+<string name="uplift_menu_item_4">Mood Uplift</string>
+<string name="uplift_menu_item_5">Insight Connection</string>
+<string name="uplift_menu_item_6">Insight Connection</string>
+<string name="uplift_menu_item_7">Purpose &amp; Vision</string>
+<string name="uplift_menu_item_8">Purpose &amp; Vision</string>
+<string name="uplift_menu_item_1a">(with quiet jazz music)</string>
+<string name="uplift_menu_item_2a">(with meditation music)</string>
+<string name="uplift_menu_item_3a">(with quiet jazz music)</string>
+<string name="uplift_menu_item_4a">(with meditation music)</string>
+<string name="uplift_menu_item_5a">(with quiet jazz music)</string>
+<string name="uplift_menu_item_6a">(with meditation music)</string>
+<string name="uplift_menu_item_7a">(with quiet jazz music)</string>
+<string name="uplift_menu_item_8a">(with meditation music)</string>
+<string name="fullprocess_title">The Full Process</string> 
+<string name="fullprocess_menu_item_1">With Guiding Voice</string>
+<string name="fullprocess_menu_item_2">With Guiding Voice</string>
+<string name="fullprocess_menu_item_3">With Music and Visuals</string>
+<string name="fullprocess_menu_item_4">Guiding Voice w/o Visuals</string>
+<string name="fullprocess_menu_item_5">Guiding Voice w/o Visuals</string>
+<string name="fullprocess_menu_item_1a">(with quiet jazz music)</string>
+<string name="fullprocess_menu_item_2a">(with meditation music)</string>
+<string name="fullprocess_menu_item_3a">(3-minute video)</string>
+<string name="fullprocess_menu_item_4a">(quiet jazz audio)</string>
+<string name="fullprocess_menu_item_5a">(meditation audio) </string>
+<string name="quick_title">Quick Inspiration</string> 
+<string name="quick_menu_item_1">Play all 12 Focus Phrases</string>
+<string name="quick_menu_item_2">Play Random Focus Phrase</string>
+<string name="quick_menu_item_3">Play Next Focus Phrase</string>
+<string name="quick_menu_item_4">Order Focus Phrase Cards</string>
+<string name="sparkup_title">Spark-Up Videos</string> 
+<string name="sparkup_menu_item_1">Program Overview</string>
+<string name="sparkup_menu_item_2">Breathing Easy</string>
+<string name="sparkup_menu_item_3">Emotional Healing</string>
+<string name="sparkup_menu_item_4">Enjoy This Moment</string>
+<string name="sparkup_menu_item_1a">(3-minute video)</string>
+<string name="sparkup_menu_item_2a">(3-minute video)</string>
+<string name="sparkup_menu_item_3a">(7-minute video)</string>
+<string name="sparkup_menu_item_4a">(2-minute music video)</string>
+<string name="why_option_item">Why This App</string>
+<string name="instructions_option_item">Instructions</string>
+<string name="notes_option_item">\'Mood Uplift\' Notes</string>
+<string name="support_option_item">Long-term Support</string>
+<string name="about_option_item">John Selby\'s Bio</string>
+<string name="share_option_item">Share</string>
+<string name="email_subject_text">Wow - this app really helps</string>
+<string name="email_body_text">
+I\'ve just downloaded this new app called \"Mood Uplifts\"  based on the Focus
+\nPhrase programs in John Selby\'s book Expand This Moment. You can watch or
+\nlisten to these short-short video uplifts anywhere anytime. They reduce
+\nstress, boost creativity, encourage empathy ... and expand that general good
+\nfeeling that makes life worth living. 
+\nFollow this link for an overview of this app and the online course associated with it.
+
+\n\nhttp://www.spiritualnuggets.net/mooduplift.cfm
+\nTools to the people - enjoy!
+
+</string>
+<string name="instructions_title">Instructions</string>
+<string name="instructions_text">
+There are 4 Mood Uplift programs to choose from on the main menu:
+\n\nINSTANT VIDEO UPLIFTS: When you want a very-fast boost of mood, energy, and creativity, click on "Instant Video Uplifts" to access a set of 90-second \'video uplifts\'. Choose the theme that matches your need or desire at that moment. (select easy-jazz upbeat guitar music, or soothing meditation music.)
+\n\nTHE FULL PROCESS:  When you have 3 minutes free for an inner boost, enjoy a video meditation guiding you through all 12 Focus Phrases. There are 4 versions of this program: 1) with John Selby\'s guiding voice; 2) with written Focus Phrases and music; 3) an audio version with quiet jazz; and 4) an audio version with meditation music. At least once a day, do your best to take a three minute breather - reap the benefits of more creativity, empathy, wellness, and enjoyment of the moment.
+\n\nQUICK INSPIRATION: For variety, this third program offers special Focus Phrase Cards to guide you visually through the Expand This Moment Process. You can:  1) play a video with all 12 Focus Phrase Cards as a 3-minute wake-up meditation; 2) receive a \'random-selection\' Card Of  The Day to hold in mind; or 3) see the next Focus Phrase in the series of 12.  Wherever you are, these Mood Uplift cards will help you instantly shift in bright directions.
+\n\nSPARK-UP VIDEOS: This App also includes 4 emotional-support videos for extra help in mastering the \"Expand This Moment\" Process: a) the \"Program Overview\" where John Selby explains the deeper source of his Focus Phrase process; b) the \"Breathing Easy\" program that guides you fast into inner peace and insight; c) the full 7-minute \"Emotional Healing\" video process when you need deep effective help in regaining your emotional center; and d) a special short \"Expand This Moment\" folk-rock music video to brighten your mood whenever you want to!
+</string>
+<string name="about_title">About John Selby</string>
+<string name="about_text">
+John is a fourth-generation California ranching-family boy from Ojai. His father was an inventor, and when John went to Princeton to expand his life beyond the ranch he realized that traditional psychology was in its infancy and just begging for new insights, methods, and inventions to improve success rates. 
+\n\nThat was back in the sixties and seventies; for the following 40 years John has done research at NIH and elsewhere, combining ancient wisdom and practical methodology from meditation research with just-emerging insights from cognitive psychology. The result is his \"Expand This Moment\" Process based on the 12 primary Focus Phrases being offered in this Mood Uplift App.
+\n\nJohn has written over 30 books, produced ground-breaking mind-management and meditation videos, taught thousands of students his innovative cognitive-shifting techniques, and inspired a great many therapists, spiritual counselors and teachers who are spreading his insights and techniques throughout the world.
+\n\nHaving lived and worked in America, South Africa, Guatemala, and Europe, John has recently returned from a research/writing/production retreat in Kauai, and makes his home with his life partner, Birgitta Steiner, near Santa Cruz CA. At 65, he is gearing up for one more 7-year cycle of active teaching and further writing and research, before settling into his alternate identity as musician  and novelist.
+\n\nVisit with John at www.johnselby.com.
+</string>
+<string name="moodnotes_title">\'Mood Uplift\' Notes</string>
+<string name="moodnotes_text">
+We all know that we succeed in life based on how we feel inside. When we\'re feeling low, fatigued, upset, depressed, confused, or anxious, we tend to fail both in our work and in our relationships. Our health also suffers, as does our deeper spiritual presence. \'Mood Uplifts\' are special rapid inner processes based on new research in cognitive psychology, designed to almost instantly shift your focus of attention in positive directions via media inputs,  
+\n\nThe chronic thoughts, attitudes, memories, and images that you habitually hold in your mind determine for the most part how you feel emotionally. John Selby\'s unique Focus Phrases instantly shift your mind\'s focus of attention away from negative fixations, toward more uplifting inner experiences. Through the dynamics of \'cognitive shifting\' you can take charge of your mind, using the 12 Focus Phrases to transform your inner world - which will transform your outer world as well.
+\n\nDAILY PRACTICE: Each morning, wake up to a short meditative process by experiencing one of the videos on this App or John Selby\'s related TappingDaily.org site. And when it\'s time to relax after work, or just before going to bed, choose to pause and allow a video meditation to work its wonders on your peace of mind.
+\n\nHELP WHEN YOU NEED IT: When you are busy at work, or when relating socially or with loved ones, you need all the help you can get in order to regain and maintain optimum mental and emotional wellbeing. By using this Mood Uplift App when you\'re out in the world, you can quickly shift into a brighter inner condition; that\'s what this Mood Uplift Process is all about.
+</string>
+<string name="whyapp_title">Why This App</string>
+<string name="whyapp_text">
+This App will help you to quickly and enjoyably refocus your attention in directions that will uplift your spirit, wake up your creativity, boost your empathy, and in general keep you operating at top performance and pleasure.
+\n\nThe thoughts that you allow to dominate your mind determine not only your inner mood but everything that happens in your life. It\'s true that you get what you focus on ... and the 12 Focus Phrases you learn in this Application will effortlessly refocus your attention in uplifting, rewarding and enlightening directions. 
+\n\nAt work or at play, pause for just a minute or two - and receive video and audio guidance that will help you let go of stress and worries, tap your deeper creative potential, and fully wake up the real you.
+\n\nThis App is based on the new book \"Expand  This Moment\" by John Selby. John is a well-known psychologist, teacher and author specializing in the development of new approaches to mood expansion and mind management. In order to bring his methods to the mainstream market, John has compressed his core psychological and spiritual insights and methodology into unique 90-second and 3-minute Mood Uplift video experiences. 
+\n\nIt\'s a well-proven fact: your prevailing mood each day determines your enjoyment and success in life. With this new App, you can take charge of your mood swings and transform your life for the better. 
+</string>
+<string name="support_title">Long-term Support</string>
+<string name="support_text">
+This Mood Uplift App offers a potent long-term strategy for gaining and maintaining optimum mental and emotional performance and enjoyment. Each time you watch one of these short videos, you\'ll be learning how to shift more rapidly and deeply into qualities of consciousness that will prove highly rewarding. 
+\n\nHELP IS ALWAYS AT HAND: As long as the electricity flows, you can take this App with you everywhere and tap into its support-power whenever you want to. What\'s important is remembering to remember … all you need is 10 seconds in order to tap a Focus Phrase Card\'s revitalizing power … 90 seconds for an Instant Uplift … or 3 minutes for the Full Process or a Spark-Up Video. Your job is to remember to pause, access this App, and shift your attention toward uplifting feelings.
+\n\nTHE GOAL: Each time you watch a video or listen to a guided experience with this App, you\'ll be more deeply learning one or more of the 12 Focus Phrases - and this is the goal: for you to internalize these key statements that aim your attention in valuable directions. At some point you won\'t even need the App reinforcement - you\'ll have developed new mental habits that bring the Focus Phrases to mind whenever you need them.
+\n\nONLINE SUPPORT:  This Application represents about 10% of John Selby\'s full support system. Go to www.tappingdaily.org for more guidance and insight. John is continually updating his training-reinforcement site with daily blogs, new video and audio programs, written discussions, seminars and so forth - take full advantage of the ever-expanding online programming. 
+</string>
+</resources>

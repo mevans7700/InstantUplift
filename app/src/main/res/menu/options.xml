@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/why_option_item" android:title="@string/why_option_item" android:icon="@android:drawable/ic_menu_help"></item>
+    <item android:id="@+id/bio_option_item" android:title="@string/about_option_item" android:icon="@android:drawable/ic_menu_info_details"></item>
+    <item android:id="@+id/notes_option_item" android:title="@string/notes_option_item" android:icon="@android:drawable/ic_menu_agenda"></item>
+    <item android:id="@+id/support_option_item" android:title="@string/support_option_item" android:icon="@android:drawable/ic_menu_manage"></item>
+    <item android:id="@+id/instructions_option_item" android:title="@string/instructions_option_item" android:icon="@android:drawable/ic_menu_directions"></item>
+    <item android:title="@string/share_option_item" android:icon="@android:drawable/ic_menu_share" android:id="@+id/share_option_item"></item>
+</menu>
